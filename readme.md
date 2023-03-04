@@ -12,4 +12,5 @@ datset link-https://www.kaggle.com/c/fake-news/data
                                                                                                                                                                          Day 5 Gold Price Prediction using RandomForest Regressor                                                                                                                 
  dataset link-https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data                                                                                            
                                                                                                                                                                         Day 6 Customer Segmentation using Kmeans Unsupervised learning technique  
-dataset link-https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python                                                               
+dataset link-https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+                                                                                                                                                                        
