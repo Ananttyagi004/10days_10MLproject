@@ -14,5 +14,7 @@ datset link-https://www.kaggle.com/c/fake-news/data
                                                                                                                                                                         Day 6 Customer Segmentation using Kmeans Unsupervised learning technique  
 dataset link-https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python                                                                       
                                                                                                                                                                         Day 7 Credit Card Fraud Detection(Anomaly Detection)                                                                                                                      
-dataset link-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud                                                                                                      
+dataset link-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
+Day 8 Parkinsons Disease prediction using Support Vector Machine                                                                                                          
+https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection                                                                                                 
                                                                                                                                                                         
