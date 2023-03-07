@@ -18,5 +18,7 @@ dataset link-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 Day 8 Parkinsons Disease prediction using Support Vector Machine                                                                                                          
 https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection                                                                                                 
                                                                                                                                                                         Day 9  Spaceship Titanic-Predict which passengers are transported to an alternate dimension                                                                               
-dataset link-https://www.kaggle.com/competitions/spaceship-titanic/data                                                                                                
+dataset link-https://www.kaggle.com/competitions/spaceship-titanic/data                                                                                                   
+Day 10 Email Spam Detection                                                                                                                                               
+https://drive.google.com/file/d/1uzbhec5TW_OjFr4UUZkoMm0rpyvYdhZw/view                                                                                                
                                                                                                                                                                         
